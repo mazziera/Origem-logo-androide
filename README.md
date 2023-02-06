@@ -24,7 +24,7 @@ Projeto Flex-blog  concluido ✅
     <li>GIT</li>
 </ul>
 
-# Dificulddades ⚔
+# Dificuldades ⚔
 
 </p>Tive dificuldade com a responsividade do conteúdo principal, isto é: alinhar ao centro da tela e o texto acompanhando o tamanho da tela, sendo resolvido  respectivamente, mais tarde com margin: auto e dando uma largura minima e uma máxima para o conteúdo principal;</p>
 A inserção do vídeo foi um problema no início, pois o mesmo nao se adequava junto ao restante do conteúdo principal. Foi resolvido com responsividade, utilizando a tag picture e suas propriedades de media queries.
