@@ -11,7 +11,7 @@ Projeto foi criado como desafio proposto no curso Curso em Vídeo- módulo 2, co
 Alguns métodos utilizados no projeto: HTML Semântico; Responsividade;
 
 # <strong>Status</strong> 🎯
-Projeto Flex-blog  concluido ✅
+Projeto Origem-logo-android:  concluido ✅
 
 ### <strong>Curiosidade- Este projeto é sem fins lucrativos e foi feito apenas como meio de aprendizado.</strong>
 <br>
